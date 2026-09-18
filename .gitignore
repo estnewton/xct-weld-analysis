@@ -1,0 +1,7 @@
+dataset/
+results/
+*.tiff
+*.tif
+__pycache__/
+*.pyc
+.DS_Store
